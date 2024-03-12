@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("../../assets/styles/reset.scss");
+
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    max-width: 325px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 35.7px;
+}

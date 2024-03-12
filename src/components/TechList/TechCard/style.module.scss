@@ -1,0 +1,35 @@
+.li{
+    background-color: #121214;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px 20px;
+    p{
+        color: #FFF;
+        font-family: "Inter", sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 23px; 
+    }
+}
+.handle{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    span{
+        color: #868E96;
+        font-family: "Inter", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+}
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 7.5px;
+    img{
+        cursor: pointer;
+    }
+}
